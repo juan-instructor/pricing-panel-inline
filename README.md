@@ -51,13 +51,12 @@
   }
 ```
 
-5. Use **_ColorPicker Eyedropper_** to find HEX colors.
+5. Use **_ColorPicker colorZilla_** to find HEX colors.
 
 ---
 
 6. The **_ONLY_** CSS **_ALLOWED_** and you can **_RESEARCH_** more about is the following:<br>
    ⚠️ **_NOTE_**: You cannot use **_negative margin_**<br>
-
    - Always `center` elements when the design requires it.
    - You must use `max-width` of at least `950px` **_ONLY_** 1 time.
    - `width` is only allowed **_1_** time in the `p` element inside the `header` element.
